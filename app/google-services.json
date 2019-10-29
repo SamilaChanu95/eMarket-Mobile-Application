@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685109397881",
+    "firebase_url": "https://emarket-c700c.firebaseio.com",
+    "project_id": "emarket-c700c",
+    "storage_bucket": "emarket-c700c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685109397881:android:48d396a719c22dce0387a8",
+        "android_client_info": {
+          "package_name": "com.example.emarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685109397881-53b9o4hc14shsa4140s3vmhpovon6msl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emarket",
+            "certificate_hash": "1ec6fe66bb53bb577ee20223c641d5ac2a1c84c0"
+          }
+        },
+        {
+          "client_id": "685109397881-c2o5anflek76t5f3g77tjlv5d619scju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39m2Q7a-SOoy-4cRqMW49SEKKyrjdl2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685109397881-c2o5anflek76t5f3g77tjlv5d619scju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
